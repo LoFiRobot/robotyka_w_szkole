@@ -1,6 +1,6 @@
-#Lekcje 8 i 9: Mój robot potrafi malować!
+#Mój robot potrafi malować!
 
-Czas na realizację zajęć: 90 minut (2 godziny lekcyjne) 
+Czas na realizację zajęć:** 90 minut (2 godziny lekcyjne) **
 
 ###Wprowadzenie (krótki opis zajęć):
 Ideą tej lekcji jest pokazanie na praktycznym przykładzie, w jaki sposób z prostych elementów graficznych, powtarzanych wielokrotnie, mogą powstać złożone i rozbudowane rezultaty. Uczniowie najpierw rozbudują pojazd o funkcję uchwytu do mazaka, następnie zaprogramują i rozpoczną testy. Dlatego zalecamy realizowanie tego tematu lekcji w czasie 2 godzin lekcyjnych (90 minut). Na tej lekcji uczniowie przekonają się, że komputer i roboty są świetne w wielokrotnym powtarzaniu zaprogramownych czynności.
