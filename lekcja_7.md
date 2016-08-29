@@ -1,4 +1,4 @@
-#Lekcja 7: Mój robot podąża za światłem!
+#Mój robot podąża za światłem!
   
 Czas na realizację zajęć: 45 minut (1 godzina lekcyjna)
   
