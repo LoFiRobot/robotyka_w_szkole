@@ -10,7 +10,7 @@
 * LEKCJE - MAJSTERKOWANIE
    * [1. Czym są roboty?](czym_sa_roboty.md)
    * [2. Zmysły robota](zmysly_robota.md)
-   * [LEKCJA 3 - Montaż pojazdu cz. 1](lekcja_3.md)
+   * [3. Montaż pojazdu cz. 1](lekcja_3.md)
    * [4. Montaż pojazdu cz. 2](lekcja3_4_md.md)
 * [SCRATCH](scratch.md)
    * [1. Poznajemy podstawowe funkcje](lekcja_5.md)
