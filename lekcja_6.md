@@ -71,7 +71,7 @@ Prosimy aby uczniowie podzielili się na grupy, rozdajemy zestawy robotów, pros
 Rozpoczynamy wykład połączony z pokazem, n.t. działania bloków “kapeluszowych” - na przykładzie bloku wykrywającego naciśnięcie klawisza:
 
 
-Chcąc wykryć naciśnięcie klawisza, używamy bloku **Kiedy klawisz … naciśnięty** z kategorii Zdarzenia. Następnie przypinamy do niego dwa egzemplarze bloku “Obracaj silnik …” uruchamiające odpowiednie silniki/koła podpięte do gniazda **M1** i **M2**”
+Chcąc wykryć naciśnięcie klawisza, używamy bloku **Kiedy klawisz … naciśnięty** z kategorii Zdarzenia. Następnie przypinamy do niego dwa egzemplarze bloku “Obracaj silnik …” uruchamiające odpowiednie silniki/koła podpięte do gniazda **M1** i **M2**.
 
 ![](klawiatura_gora.png)
 
