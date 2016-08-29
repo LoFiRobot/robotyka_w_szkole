@@ -1,6 +1,6 @@
 #Mój robot podąża za światłem!
   
-Czas na realizację zajęć: 45 minut (1 godzina lekcyjna)
+Czas na realizację zajęć: **45 minut (1 godzina lekcyjna)**
   
 ###Wprowadzenie (krótki opis zajęć):
 Rozbudowanie robota poprzez dodanie czujników światła i samodzielne zaprogramowanie w Scratchu autonomicznie działającego robota “światłoluba”. 
