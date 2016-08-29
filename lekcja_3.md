@@ -7,6 +7,8 @@ Zaleca się realizację lekcji 3 i 4 razem, co daje łącznie 90 minut.
 ###Wprowadzenie (krótki opis zajęć):
 Pierwsza z dwóch godzin lekcyjnych, w trakcie której uczniowie skręcają szkielet robota-pojazdu. Zaleca się, aby lekcję 3 i 4 realizować na lekcji łączonej (razem 90 minut).
 
+![](pojazd.jpg)
+
 ###Cele zajęć
 Uczeń powinien:
 - Umieć skorzystać z instrukcji składania.
