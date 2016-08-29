@@ -7,6 +7,8 @@
 
 Tworzenie i programowanie LOFI Robotów jest niezwykle proste – po podstawowym szkoleniu czy uważnym przeczytaniu instrukcji poradzi sobie z tym każdy nauczyciel, nie tylko fizyk czy informatyk. Łatwość budowania robotów LOFI jest możliwa dzięki wykorzystaniu rozwiązań zaprojektowanych z myślą o amatorach – przekonuje Maciej Wojnicki, założyciel LOFI Robot. – Oferujemy prosty i łatwo dostępny system do konstruowania robotów i nauki robotyki, a tym samym idealne pole do nauki podstaw mechaniki, fizyki, elektroniki i programowania.
 
+![](IMGP3336.jpg)
+
 ###Autorskie rozwiązania dla szkół
 
 Rosnące zainteresowanie nauczycieli robotyką wynika w dużej mierze z ogólnoświatowego trendu wprowadzania nauki programowania do szkół, ponieważ zaczyna być ono postrzegane jako umiejętność tak samo niezbędna w codziennym życiu jak język angielski. LOFI Robot jest doskonałym narzędziem w edukacji, ponieważ innowacyjna firma z Trójmiasta oferuje nie tylko system do konstruowania robotów i maszyn, ale również ma pomysł i konkretne rozwiązania, pozwalające na uczenie programowania. Twórcy LOFI Robot opracowali autorski ‘pakiet szkoleniowy’ (zawierający scenariusze zajęć, metodykę pracy zajęć oraz instrukcję, jak konstruować roboty), który w połączeniu z zestawem edukacyjnym tworzy kompleksowe narzędzie do nauki programowania w szkołach.
