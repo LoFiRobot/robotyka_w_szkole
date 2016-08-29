@@ -76,4 +76,3 @@ W momencie otworzenia drzwi alarm się włącza - generując miganie diody i pis
 
 ### PRZYCISK ZE WSZYSTKIEGO
 
-###
