@@ -4,6 +4,8 @@
 
 Z wielką radością oddajemy w Twoje ręce pierwszy, polski, interaktywny podręcznik do robotyki! Mamy nadzieję, że będzie on dla Ciebie przydatną pomocą przy realizacji zajęć z podstaw robotyki i programowania.
 
+
+
 ###Co jest ciekawego w naszym podręczniku:
 * znajdziesz tutaj stale rozbudowywaną bazę scenariuszy zajęć obejmujących podstawy robotyki i programowania
 * nasze zajęcia dostosowane są do realizacji w ramach regularnych szkolnych lekcji
