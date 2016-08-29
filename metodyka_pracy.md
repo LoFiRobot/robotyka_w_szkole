@@ -1,8 +1,7 @@
 # Założenia kursu LOFI Robot
 
 ##1. Praca w grupie
-
-<img src="http://www.lofirobot.com/wp-content/uploads/IMGP0158.jpg"/>
+![](IMGP9938.jpg)
 
 Uczniowie pracują w 2-3 osobowych grupach, wspólnie organizując swoją pracę i zarządzając zestawem do budowania robotów powierzonym im na cały czas trwania kursu.
 
