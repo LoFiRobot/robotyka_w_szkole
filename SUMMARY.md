@@ -18,5 +18,4 @@
    * [3. Robot podążający za światłem](lekcja_7.md)
    * [4. Robot malujący](lekcja_8.md)
    * [DODATKOWE PRZYKŁADY](dodatkowe_przyklady.md)
-   * Automatyczna lampa
 
