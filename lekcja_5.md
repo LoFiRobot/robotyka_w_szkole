@@ -5,7 +5,6 @@
 ###Wprowadzenie (krótki opis zajęć):
 Zapoznanie uczniów z innymi możliwościami Scratcha niż znane nam dotychczas programowanie obiektów na ekranie. Pokazanie, w jaki sposób można sterować robotem z poziomu komputera. Testowanie podstawowych bloków kontrolujących działanie sterownika LOFI Brain. Stosowanie podstawowych pojęć: funkcja, parametr, zmienna.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CX-VJaCZ8tM?rel=0" frameborder="0" allowfullscreen></iframe>
  
 ###Cele zajęć
 Uczeń powinien:
