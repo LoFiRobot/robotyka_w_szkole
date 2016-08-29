@@ -28,6 +28,8 @@ Instaluje się ona automatycznie podczas zakładania konta w serwisie.
 
 ##Konfiguracja wtycznik LOFI Robot ScratchX CHROME
 
+![](chrome_scratch.png)
+
 Instrukcja obsługi:
 1. Uruchom przeglądarkę Chrome
 2. Zainstaluj aplikację <a href="https://chrome.google.com/webstore/detail/lofi-robot-scratchx/opdjdfckgbogbagnkbkpjgficbampcel?utm_source=chrome-ntp-icon" target="_blank">LOFI ROBOT ScratchX</a> z Chrome Web Store
