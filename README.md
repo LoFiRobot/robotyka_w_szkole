@@ -3,7 +3,7 @@
 
 
 
-Zestaw ośmiu scenariuszy zajęć opracowanych na potrzeby projektu SuperKoderzy realizowanego przez Akademię Orange
+Część scenariuszy zajęć znajdujących się w tym podręczniku została opracowana na potrzeby projektu SuperKoderzy realizowanego przez Akademię Orange
 
 
 Autorzy:
