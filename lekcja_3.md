@@ -63,7 +63,7 @@ z różnych dziedzin. Uczeń:
  
 ###Przebieg zajęć:
  
-1. Wprowadzenie w tematykę i integracja grupy
+####1. Wprowadzenie w tematykę i integracja grupy
 
 *Uwaga: Warto pamiętać o dokumentacji prowadzonego projektu. Wyznacz ucznia lub sam/sama pamiętaj o zrobieniu filmiku lub kilku zdjęć uczniom składającym roboty.*
 
@@ -110,6 +110,7 @@ Z dostępnych w zestawie elementów przygotuj: największy element drewniany (b�
 ![](brain_klocki.jpg)
 
 Pomiędzy drewniany korpus a sterownik LOFI BRAIN podłóż 4 drewniane podkładki. Do korpusu przykręć na środku (tak jak na schemacie poniżej) sterownik LOFI BRAIN przy pomocy 4 śrubek (pamiętaj aby każda śrubka przechodziła przez: sterownik, podkładkę i korpus).
+
 Uwagi: Strona po której znajdują się gniazda USB stanowić będzie tył pojazdu.
 
 ![](pojazd_edit_2.jpg)
@@ -126,7 +127,10 @@ Zmontuj uchwyt do czujnika odległości HC-06 zgodnie ze schematem poniżej:
 
 ![](hcsr04_1.jpg)
 
-*Uwaga: Drewniane elementy są dość ściśle spasowane z czujnikiem. Musisz być precyzyjny, nie wciskaj nic na siłę, np. pod skosem, aby nie uszkodzić elektronicznych elementów. *
+
+> Uwaga: Drewniane elementy są dość ściśle spasowane z czujnikiem. Musisz być precyzyjny, nie wciskaj nic na siłę, np. pod skosem, aby nie uszkodzić elektronicznych elementów. 
+
+
 
 Wskazówka: wkręcając śrubkę, najpierw podłóż nakrętkę, dopiero później do otworu włóż śrubkę i dokręć mocno śrubokrętem, aż nakrętka zostanie dociągnięta do sklejki.
 
