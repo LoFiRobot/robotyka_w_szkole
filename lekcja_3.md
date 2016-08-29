@@ -65,7 +65,10 @@ z różnych dziedzin. Uczeń:
  
 ####1. Wprowadzenie w tematykę i integracja grupy
 
-*Uwaga: Warto pamiętać o dokumentacji prowadzonego projektu. Wyznacz ucznia lub sam/sama pamiętaj o zrobieniu filmiku lub kilku zdjęć uczniom składającym roboty.*
+
+> Uwaga: Warto pamiętać o dokumentacji prowadzonego projektu. Wyznacz ucznia lub sam/sama pamiętaj o zrobieniu filmiku lub kilku zdjęć uczniom składającym roboty.
+
+
 
 Informujemy uczniów, że dziś rozpoczniemy składanie własnego pierwszego robota. Będzie to **robot-pojazd**. Zanim będzie mógł się poruszać - jeździć, omijać przeszkody itp. - musimy zbudować jego szkielet. Do tego celu potrzebne będą elementy konstrukcyjne (w przypadku LOFI Robot są to elementy drewniane wycięte ze sklejki oraz śrubki i nakrętki, którymi będziemy łączyć elementy drewniane).
 
