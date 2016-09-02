@@ -1,6 +1,11 @@
 # Konfiguracja komputera
 
 Aby móc korzystać ze wszystkich funkcji zestawu EDUBOX konieczne jest zainstalowanie na komputerze następujących programów i wtyczek:
+* Przeglądarka internetowa CHROME
+* Arduino IDE
+* Wtyczka LOFI Robot ScratchX dla przeglądarki CHROME
+* Wtyczka CODEBENDER APP dla przeglądarki CHROME
+
 
 
 <h1>ARDUINO IDE</h1>
@@ -44,13 +49,18 @@ Instrukcja obsługi:
 - nie działa obsługa serwomotorów
 - odczyt pinów analogowych (INPUT) momentami jest opóźniony (problemy szczególnie nasilają się przy komunikacji bluetooth) - prawdopodobnie ze względu na ograniczenia przepustowości Chrome.serial API
 
+Aby sterownik LOFI Brain komunikował się ze Scratchem do pamięci sterownika wgrać musimy specjalny skrypt z biblioteką FIRMATA. POniżej znajdują się dwie wersje tego skryptu - dla komunikacji przez kabel USB oraz przez moduł bluetooth.
+
 
 <h1>LOFI FIRMATA - USB</h1>
 <iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:166817" frameborder="0"></iframe>
 
 <h1>LOFI FIRMATA - BLUETOOTH</h1>
 
-Jeśli masz problem z wgraniem poniższego kodu przy pomocy CODEBENDERA skopiuj go i wgraj przy pomocy programu ARDUINO IDE
+
+> UWAGA! Jeśli masz problem z wgraniem poniższego kodu przy pomocy CODEBENDERA skopiuj go i wgraj przy pomocy programu ARDUINO IDE
+
+
 
 <iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:345964" frameborder="0"></iframe> 
 
