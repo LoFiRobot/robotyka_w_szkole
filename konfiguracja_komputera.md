@@ -46,8 +46,8 @@ Instaluje się ona automatycznie podczas zakładania konta w serwisie.
 1. Uruchom przeglądarkę Chrome
 2. Zainstaluj aplikację <a href="https://chrome.google.com/webstore/detail/lofi-robot-scratchx/opdjdfckgbogbagnkbkpjgficbampcel?utm_source=chrome-ntp-icon" target="_blank">LOFI ROBOT ScratchX</a> z Chrome Web Store
 3. Na sterownik LOFI Brain wgraj odpowiednią wersję skryptu <strong>FIRMATA</strong> - zwykłą (komunikacja przez port USB) lub do komunikacji bluetooth
-4. Jeśli planyjesz używać komunikacji bluetooth sparuj moduł bluetooth 2.0 z komputerem (hasło parowania: 1234)
-5. Uruchom w przeglądarce Chrome aplikację <strong>LOFI Robot ScratchX</strong>, wybierz w niej odpowiedni port do komunikacji i kliknij przycisk <strong>CONNECT
+4. Jeśli planujesz używać komunikacji bluetooth sparuj moduł bluetooth 2.0 z komputerem (hasło parowania: 1234)
+5. Uruchom w przeglądarce Chrome aplikację <strong>LOFI Robot ScratchX</strong>, i z zakładki SERIAL PORT USB (również w przypadku bluetooth!) wybierz w odpowiedni port do komunikacji i kliknij przycisk <strong>CONNECT
 </strong>6. Uruchom ScratchX klikając przycisk <strong>OPEN SCRATCHX</strong>
 
 
