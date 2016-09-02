@@ -12,7 +12,11 @@ Aby móc korzystać ze wszystkich funkcji zestawu EDUBOX konieczne jest zainstal
 
 <a href="https://www.arduino.cc/en/Main/Software" target="_blank">LINK DO POBRANIA PROGRAMU</a>
 
-ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna funkcja to edytor umożliwiający pisanie skryptów i wgrywanie ich na płytkę Arduino. Nawet jeśli na początku nie będziesz z niego korzystać instalacja AADUINO IDE jest konieczna w celu instalacji sterowników do płtyki Arduino na Twoim komputerze.
+ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna funkcja to edytor umożliwiający pisanie skryptów i wgrywanie ich na płytkę Arduino. Nawet jeśli na początku nie będziesz z niego korzystać instalacja ADUINO IDE jest konieczna w celu instalacji sterowników do płtyki Arduino na Twoim komputerze.
+
+WINDOWS
+- po zainstalowaniu ARDUINO IDE i podłączeniu sterownika do komputera system powinien automatycznie zainstalować sterowniki do płytki - jeśli nie jesteś pewny czy sterowniki zainstalowane są poprawnie wyszukaj sterownik w **PANEL STEROWANIA -> MENADŹER URZĄDZEŃ -> URZĄDZENIA USB -> ARDUINO LEONARDO**. Zapamiętaj nazwę portu jaką system przypisze do sterownika (COM z cyfrą od 1 do 20, np. COM9)
+
 
 <h1>CODEBENDER.CC</h1>
 
