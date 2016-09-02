@@ -8,7 +8,7 @@ Aby móc korzystać ze wszystkich funkcji zestawu EDUBOX konieczne jest zainstal
 
 
 
-<h1>ARDUINO IDE</h1>
+###ARDUINO IDE
 
 <a href="https://www.arduino.cc/en/Main/Software" target="_blank">LINK DO POBRANIA PROGRAMU</a>
 
@@ -18,7 +18,7 @@ ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna fun
 - po zainstalowaniu ARDUINO IDE i podłączeniu sterownika do komputera system powinien automatycznie zainstalować sterowniki do płytki - jeśli nie jesteś pewny czy sterowniki zainstalowane są poprawnie wyszukaj sterownik w **PANEL STEROWANIA -> MENADŹER URZĄDZEŃ -> URZĄDZENIA USB -> ARDUINO LEONARDO**. Zapamiętaj nazwę portu jaką system przypisze do sterownika (COM z cyfrą od 1 do 20, np. COM9)
 
 
-<h1>CODEBENDER.CC</h1>
+###CODEBENDER.CC
 
 <a target="_blank" href="http://www.codebender.cc">LINK DO SERWISU</a>
 
@@ -35,7 +35,7 @@ Aby móc korzystać z Codebendera konieczna jest jego konfiguracja i zainstalowa
 Instaluje się ona automatycznie podczas zakładania konta w serwisie.
 
 
-##Konfiguracja wtycznik LOFI Robot ScratchX CHROME
+###Konfiguracja wtycznik LOFI Robot ScratchX CHROME
 
 ![](chrome_scratch.png)
 
