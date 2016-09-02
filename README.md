@@ -14,7 +14,7 @@ Z wielką radością oddajemy w Twoje ręce pierwszy, polski, interaktywny podr�
 
 ###Dla kogo przeznaczony jest ten podręcznik?
 
-Opracowane przez nas lekcje przeznaczone są do realizacji w szkole podstawowejw klasach 4-6, jednak z powodzeniem można je wykorzystywać w gimnazjum jak i podczas realizacji zajęć pozaszkolnych.
+Opracowane przez nas lekcje przeznaczone są do realizacji w szkole podstawowej w klasach 4-6, jednak z powodzeniem można je wykorzystywać w gimnazjum jak i podczas realizacji zajęć pozaszkolnych.
 
 ###SuperKoderzy
 
