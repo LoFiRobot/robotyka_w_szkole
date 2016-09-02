@@ -5,4 +5,5 @@ border-left:4px solid #E94E0F;
 
 .markdown-section h1 {
 color: #E94E0F;
+text-transform: uppercase;
 }
