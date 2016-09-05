@@ -1,10 +1,10 @@
 # Konfiguracja komputera
 
 Aby móc korzystać ze wszystkich funkcji zestawu EDUBOX konieczne jest zainstalowanie na komputerze następujących programów i wtyczek:
-* Przeglądarka internetowa CHROME
-* Arduino IDE
-* Wtyczka LOFI Robot ScratchX dla przeglądarki CHROME
-* Wtyczka CODEBENDER APP dla przeglądarki CHROME
+* Przeglądarka internetowa [CHROME](https://www.google.pl/chrome/browser/desktop/)
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+* Wtyczka [LOFI Robot ScratchX](https://chrome.google.com/webstore/detail/lofi-robot-scratchx/opdjdfckgbogbagnkbkpjgficbampcel) dla przeglądarki CHROME
+* Wtyczka [CODEBENDER APP](https://chrome.google.com/webstore/detail/codebender-app/magknjdfniglanojbpadmpjlglepnlko) dla przeglądarki CHROME
 
 
 
