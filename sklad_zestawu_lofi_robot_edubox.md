@@ -5,14 +5,14 @@
 
 Części elektroniczne:
 
-1. Sterownik LOFI BRAIN + moduł Arduino
+1. Sterownik [LOFI BRAIN + moduł Arduino](http://www.lofirobot.com/edubox/lofi-brain/)
 2. Moduły elektroniczne – 6szt – 2 x dioda LED, 2 x fotorezystor, przycisk, potencjometr
-3. Miernik napięcia
+3. [Miernik napięcia](http://www.lofirobot.com/edubox/miernik-napiecia/)
 4. Czujnik odległości HC-SR04
 5. Kabelki krokodylki 2szt.
 6. Kabelki do czujników – 6szt + kabelek bez białej końcówki (do miernika)
 7. Kabelki do czujnika odległości 2szt. po 4przewody
-5. Powerbank 2600mAh
+5. Powerbank 2000mAh
 8. Silniki DC – 2szt.
 9. Moduł bluetooth HC-06
 
