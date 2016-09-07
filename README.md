@@ -1,4 +1,5 @@
 ![](logo_round.png)
+
 # LOFI Robot - Robotyka w szkole
 
 ###Witaj Nauczycielu!
