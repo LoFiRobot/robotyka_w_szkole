@@ -1,5 +1,7 @@
 #SCRATCH
 
+<iframe src="https://www.youtube.com/embed/6dI1qHAHs24?rel=0" frameborder="0" allowfullscreen></iframe>
+
 Jako podstawowy edytor do nauki programowania LOFI Robotów wykorzystujemy odmianę programu SCRATCH o nazwie SCRATCHX. Jest to wersja Scratcha stworzona przez twórców wersji oryginalnej, która umożliwia dodawania różnego rodzaju rozszerzeń w tym najważniejszego dla nas czyli obsługi ARDUINO.
 
 <a class="openscratch" href="http://www.lofirobot.com/scratchx/?url=http://lofirobot.github.io/Scratch/lofirobot_chrome.js#scratch">URUCHOM EDYTOR SCRATCHX</a>
