@@ -135,6 +135,9 @@ Powerbank wkładamy z tyłu do pojazdu i podłączamy do dolnego portu miniUSB.
 
 Mówimy uczniom, aby na zakończenie lekcji pojazdy postawili na ziemi i włączyli zasilanie. Informujemy, że wcześniej wgraliśmy skrypt / program, który tak steruje pojazdem, aby odczytywał odległość z przodu i omijał przeszkody.
 
+###Robot omijający przeszkody - skrypt
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:172792" frameborder="0"></iframe>
+
 Miłego testowania!
 
  
