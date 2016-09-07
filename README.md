@@ -1,3 +1,4 @@
+
 # LOFI Robot - Robotyka w szkole
 
 ###Witaj Nauczycielu!
@@ -19,6 +20,13 @@ Opracowane przez nas lekcje przeznaczone są do realizacji w szkole podstawowej 
 * będzie nam miło jeśli będziesz współtworzył ten podręcznik razem z nami, do każdego z artykułów możesz dodać swoje komentarze, wszelkie uwagi są dla nas bardzo cenne
 * nasz podręcznik w pełnej wersji funkcjonuje w postaci cyfrowej, dzięki czemu możemy rozbudowywać o wszelkiego rodzaju multimedia, filmy video i przykładowe skrytpy do programowania Arduino, które możesz wgrywać bez pomocy zewnętrznego oprogramowania
 * jeśli podtrzebujesz możesz pobrać również ten podręcznik jako PDF lub plik do czytnika ebooków (epub, mobi)
+
+
+###Masz pytania lub uwagi?
+Koniecznie daj nam znać!
+- Mailowo: **HALO@LOFIROBOT.COM**
+- Telefonicznie: **519 568 883**
+
 
 
 ###SuperKoderzy
