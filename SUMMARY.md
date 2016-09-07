@@ -7,7 +7,7 @@
    * [Konfiguracja komputera](konfiguracja_komputera.md)
    * [Skład zestawu LOFI Robot EDUBOX](sklad_zestawu_lofi_robot_edubox.md)
    * [Odznaki](odznaki.md)
-* LEKCJE - MAJSTERKOWANIE
+* [LEKCJE - MAJSTERKOWANIE](lekcje_-_majsterkowanie.md)
    * [1. Czym są roboty?](czym_sa_roboty.md)
    * [2. Zmysły robota](zmysly_robota.md)
    * [3. Montaż pojazdu cz. 1](lekcja_3.md)
