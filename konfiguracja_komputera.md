@@ -48,7 +48,14 @@ Instaluje się ona automatycznie podczas zakładania konta w serwisie.
 3. Na sterownik LOFI Brain wgraj odpowiednią wersję skryptu <strong>FIRMATA</strong> - zwykłą (komunikacja przez port USB) lub do komunikacji bluetooth
 4. Jeśli planujesz używać komunikacji bluetooth sparuj moduł bluetooth 2.0 z komputerem (hasło parowania: 1234)
 5. Uruchom w przeglądarce Chrome aplikację <strong>LOFI Robot ScratchX</strong>, i z zakładki SERIAL PORT USB (również w przypadku bluetooth!) wybierz w odpowiedni port do komunikacji i kliknij przycisk <strong>CONNECT
-</strong>6. Uruchom ScratchX klikając przycisk <strong>OPEN SCRATCHX</strong>
+</strong>
+6. Uruchom ScratchX klikając przycisk <strong>OPEN SCRATCHX</strong>
+
+
+
+> Większość laptopów posiada wbudowaną możłiwość komunikacji bluetooth. Jeśli korzystasz z komutera stacjonarnego, który nie posiada wbudowanej anteny do komunikacji bluetooth, w prosty sposób można dodać mu tą funkcję przy pomocy taniego adaptera bluetooth 2.0 podłączanego do portu USB, większość tego typu adapterów jeśłi działa w standardzie bluetooth 2.0 będzie kompatybilna z modułem bluetooth dołączonym do zestawu EDUBOX. 
+
+
 
 
 <strong>UWAGA - Aplikacja jest w wersji BETA</strong>
