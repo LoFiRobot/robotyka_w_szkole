@@ -1,4 +1,4 @@
-![](logo_round.png)
+![](logo_small.jpg)
 
 # LOFI Robot - Robotyka w szkole
 
