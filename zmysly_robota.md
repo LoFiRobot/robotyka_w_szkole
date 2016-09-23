@@ -7,6 +7,9 @@ Rozmowa o zmysłach człowieka i czujnikach stosowanych w robotyce. Pokaz dział
 
 <iframe style="height: 510px; width: 100%; margin: 10px 0 10px;"
 src="https://www.youtube.com/embed/Pvh1p0zXIGo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+###Program do wgrania na Arduino
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:173678" frameborder="0"></iframe>
  
 ###Cele zajęć
 Uczeń powinien:
