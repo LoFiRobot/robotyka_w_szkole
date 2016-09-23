@@ -3,7 +3,7 @@ Na potrzeby zajęć szkolnych opracowaliśmy system odznak, które nauczyciel mo
 
 Odznaki mają formę drewnianych medali, które każdy z zespołów może zbierać przykręcając na tylnej stronie pudełka ze swoim zestawem.
 
-<img src="http://www.lofirobot.com/wp-content/uploads/IMGP0254.jpg"/>
+![](odznaki.jpg)
 
 ###UMIEJĘTNOŚCI
 1. **CODEBOX** - odznaka przyznawana po realizacji zajęć z dodatiek [CODEBOX](http://www.lofirobot.com/edubox/codebox/)
