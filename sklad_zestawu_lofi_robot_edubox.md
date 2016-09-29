@@ -10,8 +10,8 @@ Części elektroniczne:
 3. [Miernik napięcia](http://www.lofirobot.com/edubox/miernik-napiecia/)
 4. Czujnik odległości HC-SR04
 5. Kabelki krokodylki 2szt.
-6. Kabelki do czujników – 6szt + kabelek bez białej końcówki (do miernika)
-7. Kabelki do czujnika odległości 2szt. po 4przewody
+6. Kabelki do czujników – 6 sztuk + kabelek bez białej końcówki (do miernika)
+7. Kabelki do czujnika odległości 2 sztuki po 4 przewody
 5. Powerbank 2000mAh
 8. Silniki DC – 2szt.
 9. Moduł bluetooth HC-06
