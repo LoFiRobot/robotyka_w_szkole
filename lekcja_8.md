@@ -2,6 +2,8 @@
 
 Czas na realizację zajęć:** 90 minut (2 godziny lekcyjne) **
 
+[GOTOWY PROGRAM - SCRATCHX](http://www.lofirobot.com/scratchx/?url=http://lofirobot.com/scratchx/examples/robot_malujacy.sbx#scratch)
+
 ###Wprowadzenie (krótki opis zajęć):
 Ideą tej lekcji jest pokazanie na praktycznym przykładzie, w jaki sposób z prostych elementów graficznych, powtarzanych wielokrotnie, mogą powstać złożone i rozbudowane rezultaty. Uczniowie najpierw rozbudują pojazd o funkcję uchwytu do mazaka, następnie zaprogramują i rozpoczną testy. Dlatego zalecamy realizowanie tego tematu lekcji w czasie 2 godzin lekcyjnych (90 minut). Na tej lekcji uczniowie przekonają się, że komputer i roboty są świetne w wielokrotnym powtarzaniu zaprogramownych czynności.
 
