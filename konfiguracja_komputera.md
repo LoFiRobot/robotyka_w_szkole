@@ -15,7 +15,7 @@ Aby móc korzystać ze wszystkich funkcji zestawu EDUBOX konieczne jest zainstal
 ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna funkcja to edytor umożliwiający pisanie skryptów i wgrywanie ich na płytkę Arduino. Nawet jeśli na początku nie będziesz z niego korzystać instalacja ADUINO IDE jest konieczna w celu instalacji sterowników do płtyki Arduino na Twoim komputerze.
 
 **WINDOWS**
-- po zainstalowaniu ARDUINO IDE i podłączeniu sterownika do komputera system powinien automatycznie zainstalować sterowniki do płytki - jeśli nie jesteś pewny czy sterowniki zainstalowane są poprawnie wyszukaj sterownik w **PANEL STEROWANIA -> MENADŹER URZĄDZEŃ -> URZĄDZENIA USB -> ARDUINO LEONARDO**. Zapamiętaj nazwę portu jaką system przypisze do sterownika (COM z cyfrą od 1 do 20, np. COM9)
+- po zainstalowaniu ARDUINO IDE i podłączeniu sterownika do komputera system powinien automatycznie zainstalować sterowniki do płytki - jeśli nie jesteś pewny czy sterowniki zainstalowane są poprawnie wyszukaj sterownik w **PANEL STEROWANIA -> MENEDŻER URZĄDZEŃ -> PORTY (COM i LPT) -> ARDUINO LEONARDO**. Zapamiętaj nazwę portu jaką system przypisze do sterownika (COM z cyfrą od 1 do 20, np. COM9)
 
 
 ###CODEBENDER.CC
@@ -26,7 +26,7 @@ Codebender to bardzo przydatny serwis internetowy, który umożliwia programowan
 
 Przykłady skryptów Arduino na naszej stronie podawane są w formie okien z serwisu Codebender takich jak to:
 
-<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:166817" frameborder="0"></iframe>
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:395149" frameborder="0"></iframe>
 
 Dzięki temu aby wgrać kod na Arduino wystarczy kliknąć zielony przycisk <strong>RUN ON ARDUINO</strong>
 Jeśli chcesz pobrać ten skrypt kliknij przycisk DOWNLOAD i ściągnięty plik (po odzipowaniu) uruchom w programie Arduino IDE.
@@ -66,15 +66,15 @@ Instaluje się ona automatycznie podczas zakładania konta w serwisie.
 Aby sterownik LOFI Brain komunikował się ze Scratchem do pamięci sterownika wgrać musimy specjalny skrypt z biblioteką FIRMATA. POniżej znajdują się dwie wersje tego skryptu - dla komunikacji przez kabel USB oraz przez moduł bluetooth.
 
 
-<h1>LOFI FIRMATA - USB</h1>
-<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:166817" frameborder="0"></iframe>
+<h1>LOFI Robot ScratchX - połączenie przez USB</h1>
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:395149" frameborder="0"></iframe>
 
-<h1>LOFI FIRMATA - BLUETOOTH</h1>
+<h1>LOFI Robot ScratchX - połączenie przez BLUETOOTH</h1>
 
 
 > UWAGA! Jeśli masz problem z wgraniem poniższego kodu przy pomocy CODEBENDERA skopiuj go i wgraj przy pomocy programu ARDUINO IDE
 
 
 
-<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:345964" frameborder="0"></iframe> 
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:395147" frameborder="0"></iframe> 
 
