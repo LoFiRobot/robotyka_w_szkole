@@ -58,12 +58,7 @@ Instaluje się ona automatycznie podczas zakładania konta w serwisie.
 
 
 
-<strong>UWAGA - Aplikacja jest w wersji BETA</strong>
-- nie działa obsługa czujnika odległości
-- nie działa obsługa serwomotorów
-- odczyt pinów analogowych (INPUT) momentami jest opóźniony (problemy szczególnie nasilają się przy komunikacji bluetooth) - prawdopodobnie ze względu na ograniczenia przepustowości Chrome.serial API
-
-Aby sterownik LOFI Brain komunikował się ze Scratchem do pamięci sterownika wgrać musimy specjalny skrypt z biblioteką FIRMATA. POniżej znajdują się dwie wersje tego skryptu - dla komunikacji przez kabel USB oraz przez moduł bluetooth.
+Aby sterownik LOFI Brain komunikował się ze Scratchem do pamięci sterownika wgrać musimy specjalny skrypt. Poniżej znajdują się dwie wersje tego skryptu - dla komunikacji przez kabel USB oraz przez moduł bluetooth.
 
 
 <h1>LOFI Robot ScratchX - połączenie przez USB</h1>
