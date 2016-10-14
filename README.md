@@ -1,4 +1,5 @@
-![](logo_small.jpg)
+![](chlopiec.jpg)
+
 
 # LOFI Robot - Robotyka w szkole
 
@@ -38,3 +39,7 @@ Część scenariuszy zajęć znajdujących się w tym podręczniku została opr
 ###Autorzy:<br/>
 Maciej Wojnicki<br/>
 Grzegorz Zawistowski (scenariusze zajęć)
+
+<br/><br/>
+
+![](logo_small.jpg)
