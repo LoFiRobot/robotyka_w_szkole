@@ -1,6 +1,7 @@
 #Mój robot podąża za światłem!
 
-<iframe src="https://www.youtube.com/embed/wAR5s7_wpIA" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https://www.youtube.com/watch?v=XickALENOG8{% endyoutube %} 
 
 Czas na realizację zajęć: **45 minut (1 godzina lekcyjna)**
 
