@@ -1,4 +1,4 @@
-![](chlopiec.jpg)
+![](zestaw.jpg)
 
 
 # LOFI Robot - Robotyka w szkole
