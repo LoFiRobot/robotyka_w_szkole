@@ -136,7 +136,7 @@ Powerbank wkładamy z tyłu do pojazdu i podłączamy do dolnego portu miniUSB.
 Mówimy uczniom, aby na zakończenie lekcji pojazdy postawili na ziemi i włączyli zasilanie. Informujemy, że wcześniej wgraliśmy skrypt / program, który tak steruje pojazdem, aby odczytywał odległość z przodu i omijał przeszkody.
 
 ###Robot omijający przeszkody - skrypt
-<iframe src="https://create.arduino.cc/editor/Mananasoko/4528d79d-b5f2-4314-a179-ad6be4f0f6b6/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
+<iframe src="https://create.arduino.cc/editor/LoFiRobot/e7174e01-bc8e-458b-b842-0bee3aedbee8/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
 
 Miłego testowania!
 
