@@ -3,6 +3,8 @@
 Czas na realizację zajęć: **45 minut (1 godzina lekcyjna)**
 
 [GOTOWY PROGRAM - SCRATCHX (CHROME)](http://www.lofirobot.com/scratchx/?url=http://lofirobot.com/scratchx/examples/klawiatura.sbx#scratch)
+
+{% youtube %}https://www.youtube.com/watch?v=Yi9svSC2bAk{% endyoutube %} 
   
 ###Wprowadzenie (krótki opis zajęć):
 Ułożenie w Scratchu instrukcji sterujących zbudowanym robotem-pojazdem przy pomocy strzałek klawiatury. Wyjaśnienie działania bloków “kapeluszowych” - na przykładzie bloku wykrywającego naciśnięcie klawisza. Na koniec zajęć, jeśli wystarczy czasu, atrakcyjne zadanie - wyścigi robotów, rozegranie meczu w piłkę lub przejechanie toru przeszkód.
