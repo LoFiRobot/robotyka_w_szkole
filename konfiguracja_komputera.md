@@ -48,9 +48,9 @@ Aby sterownik LOFI Brain komunikował się ze Scratchem do pamięci sterownika 
 
 <h1>LOFI Robot ScratchX - połączenie przez USB</h1>
 
-<iframe src="https://create.arduino.cc/editor/Mananasoko/01585259-db54-4a09-bbea-075645fa91d5/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
+<iframe src="https://create.arduino.cc/editor/LoFiRobot/7f6240d4-6489-4fe2-b11a-779e09454ce8/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
 
 <h1>LOFI Robot ScratchX - połączenie przez BLUETOOTH</h1>
 
-<iframe src="https://create.arduino.cc/editor/Mananasoko/295d11a9-6fdd-472b-8fe3-031a94310980/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
+<iframe src="https://create.arduino.cc/editor/LoFiRobot/5e34fa89-43ad-4394-bdde-8a96f45da4e5/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
 
