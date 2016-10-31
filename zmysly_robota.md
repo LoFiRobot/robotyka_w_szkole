@@ -9,7 +9,7 @@ Rozmowa o zmysłach człowieka i czujnikach stosowanych w robotyce. Pokaz dział
 src="https://www.youtube.com/embed/Pvh1p0zXIGo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ###Program do wgrania na Arduino
-<iframe src="https://create.arduino.cc/editor/Mananasoko/7b2ba9b9-b345-4d0a-8875-22496886b9a4/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
+<iframe src="https://create.arduino.cc/editor/LoFiRobot/221b6b0a-e584-488f-bac0-9c9ce65c23a4/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
  
 ###Cele zajęć
 Uczeń powinien:
