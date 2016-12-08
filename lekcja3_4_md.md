@@ -59,7 +59,6 @@ Przebieg zajęć:
 
 1. Wprowadzenie w tematykę i integracja grupy
 
-[do graficzki - na marginesie?] Czas na realizację tej części: ok 5 minut.
 
 Informujemy uczniów, że podczas tych zajęć kończymy składanie naszego robota - pojazdu. Przypominamy, że na poprzedniej lekcji skręciliśmy już: dwa boki, ścianę przednią i górną (ze sterownikiem). Teraz musimy jeszcze zrobić: koła, podwozie, ścianę tylną i wszystko połączyć w jeden zwarty pojazd.
 
