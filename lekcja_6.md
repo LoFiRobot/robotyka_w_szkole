@@ -78,12 +78,16 @@ Rozpoczynamy wykład połączony z pokazem, n.t. działania bloków “kapeluszo
 Chcąc wykryć naciśnięcie klawisza, używamy bloku **Kiedy klawisz … naciśnięty** z kategorii Zdarzenia. Następnie przypinamy do niego dwa egzemplarze bloku “Obracaj silnik …” uruchamiające odpowiednie silniki/koła podpięte do gniazda **M1** i **M2**.
 
 ![](klawiatura_gora.png)
+![](/assets/klawiatura_gora_bloki.png)
+
+
 
 Ponieważ blok “Kiedy klawisz … naciśnięty” wykrywa tylko moment naciśnięcia klawisza, kiedy go puścimy - silniki nie przestają się kręcić! 
 
 Chcąc je zatrzymać, musimy dodać kolejną akcję. Tworzymy podobny układ bloków jak powyżej, ale tym razem wykrywając naciśnięcie klawisza **SPACJA**, które powoduje ustawienie mocy silników na 0, czyli ich zatrzymanie.
 
-![](klawiatura_stop.png)
+
+![](/assets/klawiatura_spacja_bloki.png)
 
 Prosimy uczniów, aby przetestowali powyższe ćwiczenie na swoich komputerach.Następnie polecamy uczniom tak zaprogramować pojazdy, aby można było nimi sterować za pomocą strzałek na klawiaturze. 
 
@@ -91,7 +95,7 @@ Mówimy uczniom, że chcąc dodać ustawianie pozostałych kierunków ruchu (**L
 
 Gdy większość grup osiągnie cel, nauczyciel może na swoim komputerze wykonać i pokazać wszystkim propozycję prawidłowego rozwiązania tego zadania:
 
-![](klawiatura_lewo_prawo_dol.png)
+![](/assets/klawiatura_strzalki_bloki.png)
 
 W zależności od pomysłów uczniów / problemów jakie zauważą, można rozbudować powyższe funkcje, dodając do każdej z nich polecenie **Czekaj 0.5 sek**, a po nim dodać dwa bloki (dla każdego silnika) **Obracaj silnik …” z mocą 0**. Takie rozbudowanie funkcji, spowoduje, że naciśnięcie którejkolwiek ze strzałek uruchomi pojazdu w określonym kierunku na pół sekundy, po czym pojazd zatrzyma się. Chcąc aby jechał dalej trzeba ponownie naciskać strzałki. Jest to rozwiązanie bezpieczniejsze (robot sam nie odjedzie, nie spadnie z ławki, nie uderzy w ścianę itp.)
 
