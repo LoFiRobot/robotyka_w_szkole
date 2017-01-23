@@ -30,7 +30,7 @@ ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna fun
 
 1. Uruchom przeglądarkę Chrome
 2. Zainstaluj aplikację <a href="https://chrome.google.com/webstore/detail/lofi-robot-scratchx/opdjdfckgbogbagnkbkpjgficbampcel?utm_source=chrome-ntp-icon" target="_blank">LOFI ROBOT ScratchX</a> z Chrome Web Store
-3. Na sterownik LOFI Brain wgraj odpowiednią wersję skryptu do komunikacji ze Scratchem - zwykłą (komunikacja przez port USB) lub do komunikacji bluetooth
+3. Na sterownik LOFI Brain wgraj skrypt do komunikacji ze Scratchem - umożliwiający komunikację przez kabel USB i moduł Bluetooth
 4. Jeśli planujesz używać komunikacji bluetooth sparuj moduł bluetooth 2.0 z komputerem (hasło parowania: 1234)
 5. Uruchom w przeglądarce Chrome aplikację <strong>LOFI Robot ScratchX</strong>, i z zakładki SERIAL PORT USB (również w przypadku bluetooth!) wybierz w odpowiedni port do komunikacji i kliknij przycisk <strong>CONNECT
 </strong>
@@ -38,7 +38,7 @@ ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna fun
 
 
 
-> Większość laptopów posiada wbudowaną możłiwość komunikacji bluetooth. Jeśli korzystasz z komutera stacjonarnego, który nie posiada wbudowanej anteny do komunikacji bluetooth, w prosty sposób można dodać mu tą funkcję przy pomocy taniego adaptera bluetooth 2.0 podłączanego do portu USB, większość tego typu adapterów jeśłi działa w standardzie bluetooth 2.0 będzie kompatybilna z modułem bluetooth dołączonym do zestawu EDUBOX. 
+> Większość laptopów posiada wbudowaną możliwość komunikacji bluetooth. Jeśli korzystasz z komutera stacjonarnego, który nie posiada wbudowanej anteny do komunikacji bluetooth, w prosty sposób można dodać mu tą funkcję przy pomocy taniego adaptera bluetooth 2.0 podłączanego do portu USB, większość tego typu adapterów jeśłi działa w standardzie bluetooth 2.0 będzie kompatybilna z modułem bluetooth dołączonym do zestawu EDUBOX. 
 
 
 
@@ -46,11 +46,7 @@ ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna fun
 Aby sterownik LOFI Brain komunikował się ze Scratchem do pamięci sterownika wgrać musimy specjalny skrypt. Poniżej znajdują się dwie wersje tego skryptu - dla komunikacji przez kabel USB oraz przez moduł bluetooth.
 
 
-<h1>LOFI Robot ScratchX - połączenie przez USB</h1>
+<h1>LOFI Robot ScratchX - połączenie przez USB i moduł Bluetooth 2.0</h1>
 
-<iframe src="https://create.arduino.cc/editor/LoFiRobot/7f6240d4-6489-4fe2-b11a-779e09454ce8/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
-
-<h1>LOFI Robot ScratchX - połączenie przez BLUETOOTH</h1>
-
-<iframe src="https://create.arduino.cc/editor/LoFiRobot/5e34fa89-43ad-4394-bdde-8a96f45da4e5/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
+<iframe src="https://create.arduino.cc/editor/LoFiRobot/e1d2069e-0c4a-42e1-a782-1e0bd958a00f/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
 
