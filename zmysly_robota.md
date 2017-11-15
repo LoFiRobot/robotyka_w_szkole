@@ -1,5 +1,14 @@
 #Lekcja 2: Zmysły robota - poznajemy podstawowe czujniki.
  
+<hr>
+###  UWAGA
+ Opisana poniżej wersja lekcji z czujnikami jest **NIEAKTUALNA**
+ Obecnie zastąpiła ją [LEKCJA INTERAKTYWNA](http://www.lofiblocks.com/lekcje/czujniki/info.html)
+ 
+
+ 
+  
+<hr>
 Czas na realizację zajęć: **45 minut (1 godzina lekcyjna)**
  
 ###Wprowadzenie (krótki opis zajęć):
