@@ -2,8 +2,9 @@
  
 <hr>
 ###  UWAGA
- Opisana poniżej wersja lekcji z czujnikami jest **NIEAKTUALNA**
+ Opisana poniżej wersja lekcji z czujnikami jest **NIEAKTUALNA**.
  Obecnie zastąpiła ją [LEKCJA INTERAKTYWNA](http://www.lofiblocks.com/lekcje/czujniki/info.html)
+ NIE WYMAGA ona wgrywania żadnego skryptu na Arduino.
  
 
  
