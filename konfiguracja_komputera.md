@@ -41,7 +41,7 @@ ARDUINO IDE to główny program towarzyszący płytce Arduino. Jego główna fun
 
 
 
-> Większość laptopów posiada wbudowaną możliwość komunikacji bluetooth. Jeśli korzystasz z komutera stacjonarnego, który nie posiada wbudowanej anteny do komunikacji bluetooth, w prosty sposób można dodać mu tą funkcję przy pomocy taniego adaptera bluetooth 2.0 podłączanego do portu USB, większość tego typu adapterów jeśłi działa w standardzie bluetooth 2.0 będzie kompatybilna z modułem bluetooth dołączonym do zestawu EDUBOX. 
+> Większość laptopów posiada wbudowaną możliwość komunikacji bluetooth. Jeśli korzystasz z komputera stacjonarnego, który nie posiada wbudowanej anteny do komunikacji bluetooth, w prosty sposób można dodać mu tą funkcję przy pomocy taniego adaptera bluetooth 2.0 podłączanego do portu USB, większość tego typu adapterów jeśli działa w standardzie bluetooth 2.0 będzie kompatybilna z modułem bluetooth dołączonym do zestawu EDUBOX.
 
 
 
